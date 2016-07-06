@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenBorja</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mensaje">Mensaje</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Rutas de camion CUTonala</string>
+    <string name="title_activity_rutas">Rutas</string>
+
+</resources>
